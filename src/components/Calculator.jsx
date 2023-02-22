@@ -24,7 +24,7 @@ export default function Calculator() {
   };
 
   return (
-    <main>
+    <>
       <section className="calc-section">
         <div className="calculator">
           <div className="screen">{getValue(data)}</div>
@@ -49,6 +49,6 @@ export default function Calculator() {
           <Button type="button" className="btn bg-orange" onClick={() => doCalculation('=')}>=</Button>
         </div>
       </section>
-    </main>
+    </>
   );
 }
