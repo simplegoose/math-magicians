@@ -126,6 +126,10 @@ Coming Soon!
 
 - GitHub: [@simplegoose](https://github.com/simplegoose)
 
+👤 **Francis Uche**
+
+- GitHub: [@francis3400](https://github.com/francis3400)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
